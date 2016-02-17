@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "463AB83EFC005FC22F805BE054A1120F444FA0E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "317614385F4668CC87F4CF1FE4672D118BBAAF90" : 0,
+    "463AB83EFC005FC22F805BE054A1120F444FA0E1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "91B42C4E-B317-4CD0-BCEE-A8C77FD51EDD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "317614385F4668CC87F4CF1FE4672D118BBAAF90" : "3D-Touch\/%E5%8A%A8%E6%80%813D%20Touch\/",
+    "463AB83EFC005FC22F805BE054A1120F444FA0E1" : "3D-Touch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "动态3D Touch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "动态3D Touch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangjie172767\/-3D-Touch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "317614385F4668CC87F4CF1FE4672D118BBAAF90"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangjie172767\/3D-Touch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "463AB83EFC005FC22F805BE054A1120F444FA0E1"
+    }
+  ]
+}
